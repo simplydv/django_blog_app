@@ -1,5 +1,5 @@
 pip==19.3
-django==2.2.6
+django==2.2.8
 flake8
 autopep8
 ipdb
