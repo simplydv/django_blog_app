@@ -1,4 +1,4 @@
-pip==19.3
+pip==21.1
 django==2.2.6
 flake8
 autopep8
